@@ -1,0 +1,10 @@
+.build
+.mbed
+projectfiles
+
+BUILD/
+.idea/
+cmake-build-debug/
+cmake-build-release/
+tmpbuild/
+xcode/
